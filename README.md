@@ -1,5 +1,5 @@
 # TEOS Thermodynamic Characterization for RPA 🚀
-### Project: IgnisFlow Architect | ARIS Rocketry
+### Project: ASTERIA | ARIS Rocketry
 
 This repository provides a specialized Python-based tool to characterize **Tetraethyl orthosilicate (TEOS)** ($SiC_8H_{20}O_4$) for high-fidelity rocket engine simulations. It generates **NASA 9-polynomial** coefficients compatible with **RPA (Rocket Propulsion Analysis)**.
 
